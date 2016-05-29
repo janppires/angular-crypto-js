@@ -2,7 +2,7 @@
   "name": "angular-crypto-js",
   "version": "1.0.0",
   "authors": [
-    "J Andre Pires <jorge.pires@king.com>"
+    "J Andre Pires <janppires@gmail.com>"
   ],
   "description": "Angular wrapper around https://github.com/brix/crypto-js.git",
   "main": "angular-crypto-js.js",
