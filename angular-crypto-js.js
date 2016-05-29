@@ -7,9 +7,9 @@
 
      angular
         .module('angular-crypto-js', [])
-        .factory('cryptoJs', [cryptoJs]);
+        .factory('ngCrypto', [ngCrypto]);
 
-     function cryptoJs(){
+     function ngCrypto(){
          return {
              md5Hex : md5Hex,
              sha1Hex : sha1Hex,
