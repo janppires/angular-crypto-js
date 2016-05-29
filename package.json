@@ -2,7 +2,7 @@
   "name": "angular-crypto-js",
   "version": "1.0.0",
   "description": "Angular wrapper around https://github.com/brix/crypto-js.git",
-  "main": "index.js",
+  "main": "angular-crypto-js.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
