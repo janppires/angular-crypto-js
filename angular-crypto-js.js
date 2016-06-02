@@ -2,7 +2,7 @@
  * Angular crypto-js
  * https://github.com/janppires/angular-crypto-js.git
  **/
-
+ 
  (function (root, factory) {
    'use strict';
    if (typeof define === 'function' && define.amd) {
