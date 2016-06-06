@@ -7,7 +7,7 @@
    'use strict';
    if (typeof define === 'function' && define.amd) {
      // AMD. Register as an anonymous module.
-     define(['angular'], factory);
+     define(['angular', 'crypto-js'], factory);
    } else if (typeof module !== 'undefined' && typeof module.exports === 'object') {
      // CommonJS support
      module.exports = factory(require('angular'), require('crypto-js'));
