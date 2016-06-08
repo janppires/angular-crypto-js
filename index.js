@@ -1,1 +1,2 @@
-module.exports = require('./angular-crypto-js.js')
+require('./angular-crypto-js');
+module.exports = 'angular-crypto-js'
