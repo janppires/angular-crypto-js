@@ -1,6 +1,6 @@
 {
   "name": "angular-crypto-js",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Angular wrapper around https://github.com/brix/crypto-js.git",
   "main": "index.js",
   "scripts": {
